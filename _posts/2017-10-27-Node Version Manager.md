@@ -1,6 +1,6 @@
 <h1>NVM - Node version manager</h1>
 
-https://github.com/creationix/nvm/blob/master/README.md
+<a href="https://github.com/creationix/nvm/blob/master/README.md">https://github.com/creationix/nvm/blob/master/README.md</a>
 
 <p>Sometimes you need to use different versions of node to work on different project.  
 Node version manager makes it easy to install different versions on your machine and switch between them.</p>
