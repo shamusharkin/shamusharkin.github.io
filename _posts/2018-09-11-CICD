@@ -1,0 +1,16 @@
+#Continous Integration / Continous Deployment
+
+CI/CD describes the way modern cloud based agile software development teams get code into production.
+
+Continous Integration, is the continous integration of code into one code base made possible by GIT/GitHub.  
+All developers can have the latest version of production code, and integrate their changes into the production branch at any time.
+
+Continous deployment is the ability to move a built application into your production environment with each push of production code from the CI step.
+This is made possible using automated deployment scripts.
+
+Not all products will want code to go straight into production, probably most wont.  I would say you get fast feedback from end users but
+most companies will want to at least user acceptance test.
+
+Another versions of CD is Continous delivery, where developers will continously push to another environment with produciton ready code,
+but the code is released to production in stages, maybe once/twice a week, or fortnightly, whatever suits the product.  Usually there is a 
+User Acceptance test environment where a subset of users or product manages/business folk can try new features before released into production.
