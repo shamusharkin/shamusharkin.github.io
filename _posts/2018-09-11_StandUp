@@ -1,0 +1,26 @@
+#Daily Stand up
+
+Daily standup is a practice that occurs in agile software delivery methodologies, such as Extreme Programming (XP) and Scrum.
+
+The standup is supposed to signify the start of the working day, before anyone has touched a keyboard.
+It is a standing up meeting (that is not a meeting), and is usually timeboxed to 15 minutes.  
+The goal is to get the whole team delevopers and non-devs up to speed on a projects progress quickly.
+Agile methodologies are story based, so each team member(s) working on a particular story will usually answer 3 questions about their work:
+
+1. What did you work on yesterday?
+2. What is the plan for today?
+3. is there anything blocking your progress?
+
+Thats it, in its simpliest form.
+
+From experience, standups can be effective and ineffective.
+Bad ones usually:
+
+1. Dont start before work, but interrupt your work flow at some other point in the day
+2. Not all team members are in attendance
+3. Have long discussions
+4. Team members do not answer the above 3 questions
+
+I think a visual board with stories and names helps devs remember what their priorities are, 
+sometimes if using tracking software its difficult in a bigger team to know what story other members are talking about
+
